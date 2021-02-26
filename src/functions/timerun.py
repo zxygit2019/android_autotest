@@ -6,7 +6,7 @@ from self import self
 from src.testcase import run_all_case
 
 #run_time = "23:30:00"
-run_time = "36:00"
+run_time = "33:00"
 
 def timerun(self):
     while True:

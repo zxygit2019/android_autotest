@@ -6,20 +6,16 @@ import HTMLTestRunner_PY3
 
 import os
 
+from src.functions.get_testcase import all_case
 from src.functions.getallfile import getallfile
 from src.functions.new_picture_path import new_picture_path
 from src.functions.new_report import new_report
 from src.functions.send_mail import send_mail
 from src.testcase.testcase.test_MI6 import Test_MI6APP
 
-case_path = "D:\\tool\\android_auto\\src\\testcase\\testcase"
+
 # 报告存放路径
 report_path = os.path.join(os.getcwd(), "report")
-def all_case():
-    dis = unittest.TestLoader()
-    discover = dis.discover(start_dir=case_path, pattern="test_MI6.py", top_level_dir=None)
-    print(discover)
-    return discover
 
 
 #if __name__ == "__main__":
@@ -30,8 +26,8 @@ def run_cases():
     filepath = os.path.join(report_path, now + '.html')
     print('报告存放路径  ：' + filepath)
     ts = unittest.TestSuite()
-    #ts.addTest(all_case())
-    ts.addTest(Test_MI6APP('test_1_login'))
+    ts.addTest(all_case())
+    #ts.addTest(Test_MI6APP('test_1_login'))
     #ts.addTest(Test_MI6APP('test_guangchang'))
     #ts.addTest(Test_MI6APP('test_shipingcailing'))
     #ts.addTest(Test_MI6APP('test_shouye'))

@@ -1,7 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5611fec-289b-426f-b5ba-4f23c73d69f6" name="Default Changelist" comment="" />
+    <list default="true" id="e5611fec-289b-426f-b5ba-4f23c73d69f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_24_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_25_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_25_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_26_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_26_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_26_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-24/2021-02-24-15_27_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_55_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_56_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_56_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_57_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_57_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_57_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-15-55/2021-02-24-15_58_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_33_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_34_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_34_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_35_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_35_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_36_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_36_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_38_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumtest/Picture/2021-02-24-16-33/2021-02-24-16_38_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions/get_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcase/testcase/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-0.12.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.11.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-1.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click-7.1.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_bashcomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_termui_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_unicodefun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_winconsole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/termui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/blueprints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/ctx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/debughelpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/ext/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/exthook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/templating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/flask/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/exc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/jws.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/signer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/timed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/url_safe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/_identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/asyncfilters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/asyncsupport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/bccache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/defaults.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/idtracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/loaders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/nativetypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/runtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jinja2/visitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_native.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_speedups.cp35-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_internal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_reloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/repr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/console.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/debugger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/tbtools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/formparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/http_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/profiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/proxy_fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/shared_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/posixemulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/serving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/testapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/useragents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/accept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/common_descriptors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/cors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/etag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/user_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/flask.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-37/2021-02-10-10_38_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_39_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_40_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_40_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_40_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_41_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_41_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_41_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_44_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-10-38/2021-02-10-10_44_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-11-06/2021-02-10-11_06_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_12_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_13_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_14_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_14_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_15_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_15_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_15_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_19_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-14-12/2021-02-10-14_19_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_33_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_34_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_34_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_35_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_36_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_36_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_36_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_39_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-15-33/2021-02-10-15_39_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_01_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_02_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_02_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_03_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_03_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_03_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_04_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_07_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-00/2021-02-10-16_07_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-10-16-49/2021-02-10-16_50_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_04_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_05_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_05_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_05_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_06_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_06_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_06_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_09_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-03/2021-02-18-10_09_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_19_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_20_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_20_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_21_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_21_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_21_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_22_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_24_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-10-19/2021-02-18-10_24_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_19_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_20_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_20_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_21_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_22_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_22_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_22_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_24_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-11-19/2021-02-18-11_24_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_34_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_35_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_35_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_35_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_36_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_36_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-16-33/2021-02-18-16_36_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_35_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_36_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_36_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_37_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_37_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_38_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_38_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_41_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-35/2021-02-18-17_41_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_55_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_56_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_56_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_57_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_57_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_58_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-18-17-55/2021-02-18-17_58_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-09-41/2021-02-19-09_41_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-09-41/2021-02-19-09_42_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-09-41/2021-02-19-09_42_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_20_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_21_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_21_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_22_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_23_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_23_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_23_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_26_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-20/2021-02-19-11_26_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_42_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_43_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_43_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_44_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_44_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_44_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_45_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_47_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-11-42/2021-02-19-11_47_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_42_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_43_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_43_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_44_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_44_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_45_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_45_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_47_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-12-42/2021-02-19-12_47_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_42_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_43_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_43_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_44_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_44_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_44_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_45_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_47_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-13-42/2021-02-19-13_47_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_42_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_43_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_43_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_44_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_44_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_44_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_45_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_47_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-14-42/2021-02-19-14_47_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_42_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_43_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_43_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_44_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_45_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_45_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_45_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_48_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-15-42/2021-02-19-15_48_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_42_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_43_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_43_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_44_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_44_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_44_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_45_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_47_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-19-16-42/2021-02-19-16_47_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_36_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_37_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_37_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_38_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_39_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_39_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_39_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_42_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-11-36/2021-02-20-11_42_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-19/2021-02-20-12_19_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-19/2021-02-20-12_20_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-19/2021-02-20-12_20_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_21_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_22_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_22_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_23_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_24_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_24_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_24_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_27_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-21/2021-02-20-12_27_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/Picture/2021-02-20-12-28/2021-02-20-12_29_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/newtest/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/newtest/isElementexsit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumtest/newtest/viewtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nox_setup_v6.6.0.6_full.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions/timerun.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/timerun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcase/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testcase/run_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcase/testcase/test_MI6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testcase/testcase/test_MI6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +401,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zxygit2019/android_auto.git" />
+        <option value="https://github.com/zxygit2019/android_auto1.git" />
+        <option value="https://github.com/zxygit2019/autotest" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1e7hacKd3DlGTCnWut8NHuAwlkQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Ini" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\tool\android_auto\src\testcase\testcase" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\tool\android_auto\src\testcase\testcase" />
       <recent name="D:\tool\android_auto\src\testcase" />
@@ -41,8 +439,11 @@
       <recent name="D:\tool\appium\appiumtest\scripts" />
       <recent name="D:\tool\appium\appiumtest\common" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tool\android_auto\src\testcase\testcase" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.run_all_case">
+  <component name="RunManager" selected="Python.timerun">
     <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="appium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +520,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/testcase/testcase/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcase/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/testcase/testcase/test03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,38 +627,24 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_MI6.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcase/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/testcase/testcase/test_MI6.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.run_all_case" />
       <item itemvalue="Python.runner" />
+      <item itemvalue="Python.send_mail" />
+      <item itemvalue="Python.test02" />
+      <item itemvalue="Python.test03" />
       <item itemvalue="Python.test_android_oppoR9s" />
       <item itemvalue="Python.test_android_oppoi9" />
-      <item itemvalue="Python.run_all_case" />
       <item itemvalue="Python.timerun" />
-      <item itemvalue="Python.test02" />
       <item itemvalue="Python tests.Unittests in run_all_case.py" />
-      <item itemvalue="Python tests.Unittests in test_MI6.py" />
-      <item itemvalue="Python.send_mail" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.timerun" />
+        <item itemvalue="Python.test03" />
         <item itemvalue="Python.run_all_case" />
         <item itemvalue="Python.send_mail" />
-        <item itemvalue="Python.timerun" />
         <item itemvalue="Python.test02" />
-        <item itemvalue="Python tests.Unittests in test_MI6.py" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +671,93 @@
       <option name="presentableId" value="Default" />
       <updated>1593678602173</updated>
     </task>
+    <task id="LOCAL-00001" summary="shanchu">
+      <created>1613814367555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613814367555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="shanchu">
+      <created>1613958217136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613958217136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="封装get_case">
+      <created>1613982829128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613982829128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="封装get_case">
+      <created>1614157380811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614157380811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="shanchu" />
+    <MESSAGE value="封装get_case" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装get_case" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="0" key="#Unittests_in_runner.py" timestamp="1611112203756">
@@ -290,26 +784,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1613790018807" />
-    <state x="471" y="138" key="FileChooserDialogImpl" timestamp="1613628852816">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1614157379997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="471" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613628852816" />
-    <state width="1345" height="161" key="GridCell.Tab.0.bottom" timestamp="1613795322625">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614157379997" />
+    <state width="444" height="442" key="Diff.GoToChangePopup" timestamp="1614304574607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613795322625" />
-    <state width="1345" height="161" key="GridCell.Tab.0.center" timestamp="1613795322625">
+    <state width="444" height="442" key="Diff.GoToChangePopup/0.0.1366.728@0.0.1366.728" timestamp="1614304574607" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1614304928751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613795322625" />
-    <state width="1345" height="161" key="GridCell.Tab.0.left" timestamp="1613795322625">
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1614304928751" />
+    <state x="471" y="138" key="FileChooserDialogImpl" timestamp="1614157213807">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613795322625" />
-    <state width="1345" height="161" key="GridCell.Tab.0.right" timestamp="1613795322625">
+    <state x="471" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614157213807" />
+    <state x="542" y="254" key="Github.ShareDialog" timestamp="1613962995384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613795322625" />
+    <state x="542" y="254" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1613962995384" />
+    <state x="537" y="69" key="Github.UntrackedFilesDialog" timestamp="1613808966456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613808966456" />
+    <state width="1345" height="161" key="GridCell.Tab.0.bottom" timestamp="1614161045979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614161045979" />
+    <state width="1345" height="161" key="GridCell.Tab.0.center" timestamp="1614161045979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614161045979" />
+    <state width="1345" height="161" key="GridCell.Tab.0.left" timestamp="1614161045979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614161045979" />
+    <state width="1345" height="161" key="GridCell.Tab.0.right" timestamp="1614161045979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614161045979" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1613619076700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -326,10 +840,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613619076700" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1613790951395">
+    <state x="531" y="74" key="RollbackChangesDialog" timestamp="1613814176133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613790951395" />
+    <state x="531" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613814176133" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1614159754016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614159754016" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614304953425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614304953425" />
     <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1613628786470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

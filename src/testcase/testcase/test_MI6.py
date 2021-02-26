@@ -298,7 +298,7 @@ class Test_MI6APP(unittest.TestCase):
         # 下滑三次屏幕直到可以点击云端神州的直播页面
         swips.swipeUp(driver, n=3)
         time.sleep(2)
-        driver.find_element_by_name("云游大美中国").click()
+        driver.find_element_by_name("印象南塘 烟雨江南").click()
         time.sleep(5)
         driver.find_element_by_id("com.cmcc.cmvideo:id/item_world_multi_vision_iv_expend").click()
         # driver.find_element_by_xpath("//android.support.v7.widget.RecyclerView[@index='0']/android.view.ViewGroup[@index='3']/android.widget.TextView[@index='1']").click()
